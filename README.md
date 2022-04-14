@@ -1,1 +1,1 @@
-# AAPL-Stock-Data
+# AAPL-Stock-Data is currently under development 
